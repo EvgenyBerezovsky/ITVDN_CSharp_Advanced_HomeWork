@@ -28,17 +28,17 @@ namespace Task03
     {
         static void Main(string[] args)
         {
-            //MyCollection citizens = new MyCollection();
-            //citizens.Add(new Student("Alex", "Po", "IM000111"));
-            //citizens.Add(new Worker("Bob", "Snob", "EK 333444"));
-            //citizens.Add(new Worker("Pol", "Dupol", "EK000222"));
-            //citizens.Add(new Student("Alex1", "Po1", "IM0001111"));
-            //citizens.Add(new Pensioner("Pensioner1", "Snob1", "EK 3334441"));
-            //citizens.Add(new Pensioner("Pensioner2", "Dupol1", "EK0002221"));
-            //foreach (Citizen item in citizens)
-            //{
-            //    Console.WriteLine(item.Name);
-            //}
+            //  MyCollection citizens = new MyCollection();
+            //  citizens.Add(new Student("Alex", "Po", "IM000111"));
+            //  citizens.Add(new Worker("Bob", "Snob", "EK 333444"));
+            //  citizens.Add(new Worker("Pol", "Dupol", "EK000222"));
+            //  citizens.Add(new Student("Alex1", "Po1", "IM0001111"));
+            //  citizens.Add(new Pensioner("Pensioner1", "Snob1", "EK 3334441"));
+            //  citizens.Add(new Pensioner("Pensioner2", "Dupol1", "EK0002221"));
+            //  foreach (Citizen item in citizens)
+            //  {
+            //      Console.WriteLine(item.Name);
+            //  }
 
             MyCollection citizens = new MyCollection();
             int index;
