@@ -1,0 +1,13 @@
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\bin\Debug\netcoreapp2.1\Task03.deps.json
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\bin\Debug\netcoreapp2.1\Task03.runtimeconfig.json
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\bin\Debug\netcoreapp2.1\Task03.runtimeconfig.dev.json
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\bin\Debug\netcoreapp2.1\Task03.dll
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\bin\Debug\netcoreapp2.1\Task03.pdb
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\obj\Debug\netcoreapp2.1\Task03.csproj.AssemblyReference.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\obj\Debug\netcoreapp2.1\Task03.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\obj\Debug\netcoreapp2.1\Task03.AssemblyInfoInputs.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\obj\Debug\netcoreapp2.1\Task03.AssemblyInfo.cs
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\obj\Debug\netcoreapp2.1\Task03.csproj.CoreCompileInputs.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\obj\Debug\netcoreapp2.1\Task03.dll
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\obj\Debug\netcoreapp2.1\Task03.pdb
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson001\Task03\obj\Debug\netcoreapp2.1\Task03.genruntimeconfig.cache
