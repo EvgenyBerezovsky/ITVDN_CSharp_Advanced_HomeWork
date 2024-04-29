@@ -25,10 +25,10 @@ namespace Task03
                 return _passportID;
             }
         }
-        public Citizen(string name, string famolyName, string passportID)
+        public Citizen(string name, string familyName, string passportID)
         {
             _name = name;
-            _familyName = famolyName;
+            _familyName = familyName;
             _passportID = passportID;
 
         }
@@ -45,21 +45,21 @@ namespace Task03
     }
     public class Student : Citizen
     {
-        public Student(string name, string famolyName, string passportID) : base(name, famolyName, passportID)
+        public Student(string name, string familyName, string passportID) : base(name, familyName, passportID)
         {
         }
     }
 
     public class Pensioner : Citizen
     {
-        public Pensioner(string name, string famolyName, string passportID) : base(name, famolyName, passportID)
+        public Pensioner(string name, string familyName, string passportID) : base(name, familyName, passportID)
         {
         }
     }
 
     public class Worker : Citizen
     {
-        public Worker(string name, string famolyName, string passportID) : base(name, famolyName, passportID)
+        public Worker(string name, string familyName, string passportID) : base(name, familyName, passportID)
         {
         }
     }
