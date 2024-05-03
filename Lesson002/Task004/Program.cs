@@ -9,6 +9,11 @@ namespace Task004
     {
         public int IntProp { get; set; }
         public double DoubleProp { get; set; }
+
+        public override string ToString()
+        {
+            return $"{this.IntProp} - {this.DoubleProp}";
+        }
     }
 
     public class MyClassComparer : IEqualityComparer
@@ -46,7 +51,7 @@ namespace Task004
 
             foreach (DictionaryEntry item in myDictionary)
             {
-                Console.WriteLine(item.Value);
+                Console.WriteLine(item.Key + " " + item.Value);
             }
         }
     }
