@@ -1,0 +1,15 @@
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\bin\Debug\net6.0\Task002.exe
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\bin\Debug\net6.0\Task002.deps.json
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\bin\Debug\net6.0\Task002.runtimeconfig.json
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\bin\Debug\net6.0\Task002.dll
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\bin\Debug\net6.0\Task002.pdb
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\Task002.csproj.AssemblyReference.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\Task002.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\Task002.AssemblyInfoInputs.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\Task002.AssemblyInfo.cs
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\Task002.csproj.CoreCompileInputs.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\Task002.dll
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\refint\Task002.dll
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\Task002.pdb
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\Task002.genruntimeconfig.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\Task002\obj\Debug\net6.0\ref\Task002.dll

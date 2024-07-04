@@ -1,0 +1,12 @@
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\bin\Debug\net6.0\TemperatureConverter.deps.json
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\bin\Debug\net6.0\TemperatureConverter.dll
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\bin\Debug\net6.0\TemperatureConverter.pdb
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.csproj.AssemblyReference.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.AssemblyInfoInputs.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.AssemblyInfo.cs
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.dll
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\obj\Debug\net6.0\refint\TemperatureConverter.dll
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\obj\Debug\net6.0\TemperatureConverter.pdb
+D:\ITVDN\ITVDN_C#_Advanced_HomeWork\Lesson006\TemperatureConverter\obj\Debug\net6.0\ref\TemperatureConverter.dll
